@@ -1,4 +1,6 @@
-/* pin 12 is signal for buzzer
+/This is second folder
+
+* pin 12 is signal for buzzer
 	pin 2 is signal GND from  button
 
 	if pressed the button the melody play
