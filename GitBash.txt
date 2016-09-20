@@ -1,6 +1,10 @@
 add a new file with name gitBash
 
 
+
+add new row here. to test na conflict options.!!
+
 make a conflict !!
+
 
 make a double trouble
