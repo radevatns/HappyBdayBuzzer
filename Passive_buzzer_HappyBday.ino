@@ -7,8 +7,6 @@
 
 
 */
-
-
 int switchPosition=0;
 int c = 261;
 int d = 293;
@@ -31,7 +29,7 @@ void loop(){
   int pushPin = digitalRead(2);
   if(!pushPin)
 {
-	Serial.println("start_melody");
+  Serial.println("start_melody");
 tone(12,c,150*2);
 delay(200*2);
 tone(12,c,50*2);
@@ -84,3 +82,4 @@ tone(12,f,half);
 delay(half);
 }
 }
+
